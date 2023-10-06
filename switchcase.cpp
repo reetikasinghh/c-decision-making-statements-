@@ -1,5 +1,5 @@
+/*WRITE A PROGRAM TO DISPLAY ALL THE  DAYS */
 #include<iostream> // Include the input/output stream library.
-
 using namespace std;
 
 int main()
@@ -50,6 +50,9 @@ int main()
 Saturday 
 Enter the Day's number :2     
 Tuesday*/
+
+
+/* OUES: WRITE A PROGRAM FOR A CACULATOR USING SWITCH CASE */
 
 #include<iostream> 
 using namespace std;
@@ -105,12 +108,23 @@ int main()
     return 0; // Return 0 to indicate successful program execution.
 }
 
-/* output 
+/* OUTPUT
+Enter the first Number :98
+Enter the second Number :45
+Enter the operation to execute :
 1. Sum
 2. Subtraction
 3. Multiplication
 4. Division
 4
-The quotient is : 1.55556
+The quotient is : 2.17778 
 
-*/
+Enter the first Number :325
+Enter the second Number :789
+Enter the operation to execute :
+1. Sum
+2. Subtraction
+3. Multiplication
+4. Division
+1
+The sum is : 1114 */
