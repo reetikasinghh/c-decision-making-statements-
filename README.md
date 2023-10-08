@@ -1,6 +1,6 @@
 # c-decision-making-statements-
 
-Program Aim:
+1)Program Aim:
 The aim of this program is to determine whether a user-entered integer is even or odd and then display the result.
 
 Program Theory:
@@ -40,7 +40,7 @@ output:
 ![image](https://github.com/reetikasinghh/c-decision-making-statements-/assets/139485681/075d1813-3e02-4d76-966d-f88d7b8afc86)
 
 
-Program Aim:
+2)Program Aim:
 The aim of this program is to determine and display which of three user-entered numbers is the largest, or to indicate if two or more numbers are equal and the largest.
 
 Program Theory:
@@ -82,7 +82,7 @@ Example Output:
 ![image](https://github.com/reetikasinghh/c-decision-making-statements-/assets/139485681/27d6963e-071d-47cd-a522-d6d2947d66f1)
 
 
-Program Aim:
+3)Program Aim:
 The aim of this program is to take an integer input from the user (representing a day of the week) and then display the corresponding day's name.
 
 Program Theory:
@@ -128,7 +128,7 @@ EXAMPLE OUTPUT:
 ![image](https://github.com/reetikasinghh/c-decision-making-statements-/assets/139485681/a6d20e28-f8e5-4beb-ac8f-6ba3cef43c5a)
 
 
-Program Aim:
+4)Program Aim:
 The aim of this program is to create a simple calculator that allows the user to perform four basic mathematical operations (addition, subtraction, multiplication, and division) on two floating-point numbers. The user can choose the operation to be performed.
 
 Program Theory:
